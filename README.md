@@ -36,4 +36,5 @@
 		![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I99900K&theme=github_dark)
 		![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I99900K&theme=github_dark)
 	</div>
-
+# Visitor Count
+<img src="https://profile-counter.glitch.me/I99900K/count.svg" />
