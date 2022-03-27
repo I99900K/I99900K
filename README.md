@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌱, I'm Poman <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
-<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Owainbutpivot.gif"></h1>
+<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/en/3/3d/Owainbutpivot.gif" width="30%"></h1>
 <div>
 
 
